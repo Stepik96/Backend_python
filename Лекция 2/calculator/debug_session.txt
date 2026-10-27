@@ -1,0 +1,17 @@
+> c:\urfu\2 курс\3 сем\python яндекс\лекция 2\calculator\calculator.py(1)<module>()
+-> """Задачи 3–4 (слайды 33–34): сложение и исправленное деление."""
+(Pdb) Breakpoint 1 at c:\urfu\2 курс\3 сем\python яндекс\лекция 2\calculator\calculator.py:9
+(Pdb) Первое число: Второе число: Сумма: 10.0
+> c:\urfu\2 курс\3 сем\python яндекс\лекция 2\calculator\calculator.py(11)divide()
+-> if second_number == 0:
+(Pdb) 0.0
+(Pdb) > c:\urfu\2 курс\3 сем\python яндекс\лекция 2\calculator\calculator.py(12)divide()
+-> return None
+(Pdb) --Return--
+> c:\urfu\2 курс\3 сем\python яндекс\лекция 2\calculator\calculator.py(12)divide()->None
+-> return None
+(Pdb) На ноль делить нельзя
+The program finished and will be restarted
+> c:\urfu\2 курс\3 сем\python яндекс\лекция 2\calculator\calculator.py(1)<module>()
+-> """Задачи 3–4 (слайды 33–34): сложение и исправленное деление."""
+(Pdb) 
